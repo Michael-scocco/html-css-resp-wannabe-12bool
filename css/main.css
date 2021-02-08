@@ -16,16 +16,11 @@
 /* BLOCCO PERCHE  TERZA SESSIONE*/
 
 
-.row>.rpw-first-why,
-.row>.rpw-second-why,
-.row>.rpw-third-why {
+.col-lg-12 {
   width: 100%;
-  margin-top: 80px;
 }
 
-.row-first-why > img,
-.row-second-why > img,
-.row-third-why >img {
+.col-lg-12 >img {
 
   background-color: #428bca;
   border-radius: 50%;
@@ -40,7 +35,7 @@ p, h3, h2{
     margin:20px;
 }
 hr{
-    margin-bottom: 20px;
+    margin-bottom: 60px;
 }
 
 /*

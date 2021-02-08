@@ -35,7 +35,7 @@ LE INIZIALI "XS", CIO' VA A DEFINIRE
 CHE LAVORA NELLA VERSIONE MOBILE(CELLULARE)QUINDI CLASSE SPECIFICA,
 STESSA COSA PER LA PARTE OFFESET______ */
 
-@@media all and (max-width:767px) {
+@media all and (max-width:767px) {
 
 /* ______FORMATO DEL MOBILE_____ */
 
@@ -144,7 +144,7 @@ STESSA COSA PER LA PARTE OFFESET______ */
 /* ________FORMATO TABLET, "MD" VA A DEFINIRE COME CLASSE
 LA LARGHEZZA DEL TABLET_________ */
 
-@@media all and (max-width:768px) and (max-width:911px) {
+@media all and (min-width:768px) and (max-width:991px) {
 
 
 
@@ -252,7 +252,7 @@ LA LARGHEZZA DEL TABLET_________ */
 /* ________FORMATO DEKSTOP "LG" VA A DEFINIRE
 LA CLASSE DELLA GRANDEZZA DEKSTOP________ */
 
-@@media all and (min-width:992px) {
+@media all and (min-width:992px) {
 
 
 
