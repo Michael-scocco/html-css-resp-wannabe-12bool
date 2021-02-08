@@ -1,0 +1,62 @@
+
+.container {
+  max-width: 1170px;
+  margin: 0 auto;
+  margin-top: 100px;
+  text-align: center;
+}
+
+/* BLOCCO LEZIONI  HEADER E PRIMA SESSIONE*/
+.row>.row-left,
+.row>.row-right {
+  width: 50%;
+  float: left;
+}
+
+/* ________REGOLE SESSIONE STEPS SECONDA SESSIONE______ */
+.container.grey {
+  background-color: #f9f9f9;
+}
+
+/* BLOCCO STEPS */
+.row>.row-steps-left,
+.row>.row-steps-central,
+.row>.row-steps-right {
+  float: left;
+  width: 33%;
+}
+
+/* BLOCCO PERCHE  TERZA SESSIONE*/
+
+
+.row>.rpw-first-why,
+.row>.rpw-second-why,
+.row>.rpw-third-why {
+  width: 100%;
+  margin-top: 80px;
+}
+
+.row-first-why > img,
+.row-second-why > img,
+.row-third-why >img {
+
+  background-color: #428bca;
+  border-radius: 50%;
+  padding: 30px;
+}
+
+img{
+    height: 200px;
+}
+
+p, h3, h2{
+    margin:20px;
+}
+hr{
+    margin-bottom: 20px;
+}
+
+/*
+.clear {
+  clear: both;
+} */
